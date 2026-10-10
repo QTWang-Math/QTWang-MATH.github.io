@@ -39,7 +39,7 @@ main { max-width: 1120px; margin: 64px auto; padding: 0 40px; }
 .about-page { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 60px; align-items: start; }
 .portrait-frame {
   width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 4 / 5;
   overflow: hidden;
 }
 .portrait {
